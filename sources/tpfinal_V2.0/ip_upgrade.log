@@ -1,0 +1,604 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct 13 09:44:07 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 36) to (Rev. 37)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 20:13:50 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 34) to (Rev. 36)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 19:40:16 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 33) to (Rev. 34)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 19:24:24 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 32) to (Rev. 33)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 19:07:04 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 31) to (Rev. 32)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 18:53:32 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 30) to (Rev. 31)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 18:33:04 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 29) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Mon Oct 11 18:22:19 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 28) to (Rev. 29)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 20:58:02 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 27) to (Rev. 28)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 19:53:15 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 26) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 19:20:44 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 25) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 18:58:16 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 24) to (Rev. 25)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 18:45:25 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 23) to (Rev. 24)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 18:30:59 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 22) to (Rev. 23)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 18:03:28 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 21) to (Rev. 22)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 17:42:40 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 20) to (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 17:28:09 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 19) to (Rev. 20)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 17:22:50 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 18) to (Rev. 19)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 16:57:26 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 17) to (Rev. 18)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 16:31:22 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 16) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 16:17:58 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 15) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Sun Oct 10 16:04:30 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 14) to (Rev. 15)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 21:38:13 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 21:04:09 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_inADC_0_1 (user.org:user:inADC:1.0 (Rev. 13)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 21:03:34 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 20:57:45 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_1 (user.org:user:inADC:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 20:48:10 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_0 (user.org:user:inADC:1.0) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 20:43:56 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_0 (user.org:user:inADC:1.0) from (Rev. 8) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (lin64) Build 2188600 Wed Apr  4 18:39:19 MDT 2018
+| Date         : Wed Oct  6 20:33:53 2021
+| Host         : pablo-G3-3579 running 64-bit Ubuntu 20.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_inADC_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_inADC_0_0 (user.org:user:inADC:1.0) from (Rev. 7) to (Rev. 8)
+

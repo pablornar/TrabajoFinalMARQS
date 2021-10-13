@@ -1,0 +1,23 @@
+18:19:41 **** Auto Build of configuration Debug for project tpfinalv2 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/tpfinalv2.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tpfinalv2.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../tpfinalv2_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/tpfinalv2.d" -MT"src/tpfinalv2.o" -o "src/tpfinalv2.o" "../src/tpfinalv2.c"
+Finished building: ../src/tpfinalv2.c
+ 
+Building target: tpfinalv2.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../tpfinalv2_bsp/ps7_cortexa9_0/lib -o "tpfinalv2.elf"  ./src/tpfinalv2.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: tpfinalv2.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size tpfinalv2.elf  |tee "tpfinalv2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23720	   1200	  22584	  47504	   b990	tpfinalv2.elf
+Finished building: tpfinalv2.elf.size
+ 
+
+18:19:41 Build Finished (took 664ms)
+

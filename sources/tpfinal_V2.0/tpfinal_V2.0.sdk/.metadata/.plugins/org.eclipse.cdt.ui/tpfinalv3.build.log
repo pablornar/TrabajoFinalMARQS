@@ -1,0 +1,16 @@
+10:02:41 **** Incremental Build of configuration Debug for project tpfinalv3 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/tpfinalv3.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tpfinalv3.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../tpfinalv3_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/tpfinalv3.d" -MT"src/tpfinalv3.o" -o "src/tpfinalv3.o" "../src/tpfinalv3.c"
+In file included from ../src/tpfinalv3.c:1:0:
+../../tpfinalv3_bsp/ps7_cortexa9_0/include/xparameters.h:19:10: fatal error: xparameters_ps.h: No such file or directory
+ #include "xparameters_ps.h"
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [src/subdir.mk:23: src/tpfinalv3.o] Error 1
+
+10:02:42 Build Finished (took 511ms)
+
